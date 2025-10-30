@@ -1,6 +1,8 @@
 # 🏍️ Motor Wishlist App
 A simple React Native + Expo CRUD app to manage your favorite motorcycles.
 
+https://www.loom.com/share/c28cb93f31bb490fb9d255d4f7eba5f6
+
 ## 🚀 Features
 - Add, Edit, Delete motor data  
 - Image preview & price display  
